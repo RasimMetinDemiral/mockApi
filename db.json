@@ -1,0 +1,32 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "name": "Data Rich Package",
+      "data": "50 GB",
+      "calls": "100 min",
+      "sms": "100"
+    },
+    {
+      "id": 2,
+      "name": "Speak Up Package",
+      "data": "1 GB",
+      "calls": "5000 min",
+      "sms": "100"
+    },
+    {
+      "id": 3,
+      "name": "Message Package",
+      "data": "1 GB",
+      "calls": "100 min",
+      "sms": "5000"
+    },
+    {
+      "id": 4,
+      "name": "Speak Up & Data Package",
+      "data": "50 GB",
+      "calls": "5000 min",
+      "sms": "100"
+    }
+  ]
+}
