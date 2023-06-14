@@ -28,5 +28,13 @@
       "calls": "5000 min",
       "sms": "100"
     }
-  ]
+  ],
+  
+  "posts": [
+    { "id": 1, "message": ":id'li paketiniz satın alınmıştır." },
+    { "id": 2, "message": ":id'li paketiniz satın alınmıştır." },
+    { "id": 3, "message": ":id'li paketiniz satın alınmıştır." }
+	{ "id": 4, "message": ":id'li paketiniz satın alınmıştır." }
+  ],
+  
 }
